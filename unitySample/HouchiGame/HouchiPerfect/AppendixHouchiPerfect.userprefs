@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\DataBase\DataBase.cs">
+    <Files>
+      <File FileName="Assets\Script\DataBase\DataBase.cs" Line="10" Column="33" />
+      <File FileName="Assets\Script\Character\CharaMove.cs" Line="86" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="D:\Unity\musou\samurai2\Assets\AResource\Scripts\Player\CharaBase\CharaBase_ActionMyPage.cs" line="145" offsetX="670" offsetY="2304" expression="wayPoints._items" liveUpdate="False" />
+    <Watch file="D:\Unity\musou\samurai2\Assets\AResource\Scripts\Player\CharaBase\CharaBase_ActionMyPage.cs" line="145" offsetX="670" offsetY="2304" expression="wayPoints._items" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
